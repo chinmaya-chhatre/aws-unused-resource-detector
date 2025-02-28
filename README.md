@@ -146,7 +146,3 @@ Total Unused Resources: 3
 
 ## 📌 **License**
 This project is licensed under the MIT License.
-
----
-
-🚀 **Congratulations! Your AWS Unused Resource Detector is now fully set up and automated!** 
